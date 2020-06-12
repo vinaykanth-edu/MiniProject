@@ -1,236 +1,84 @@
 [
     {
-        "image": "https://via.placeholder.com/50",
-        "title":"Bheema's Restaurant",
-        "payment": "Accepts card payments",
-        
-        "total votes": 766,
-        "Category":"Continental, Oriental, Chinese",
-        "reviews":12345,
-        "CostForOne" : 600, 
-        "rating": 4.2
+        "id":1,
+        "title":"Hyderabad Biriyani House",
+        "cuisines":"Biryani, North Indian, Chinese, Mughlai",
+        "image":"https://b.zmtcdn.com/data/pictures/2/50492/befb9434e18ae6e094738b47a35b2cf7.jpg?output-format=webp",
+        "price":494,
+        "COD":false,
+        "rating":4.83,
+        "menu":[ 
+            {"id":1, "count":1, "title":"Spl. Hyd. Mutton Biryani", "price":245, "src":"https://b.zmtcdn.com/data/reviews_photos/043/61ba53f5757493adb4ce7bab00bdc043_1581352142.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A"},
+            {"id":2, "count":1, "title":"Spl. Hyd. Chicken Biryani", "price":235, "src":"https://b.zmtcdn.com/data/reviews_photos/0d0/ee2b15acf05a5ff91c3b3fdcf06ea0d0_1549475601.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A"},
+            {"id":3, "count":1, "title":"Spl. Hyd. Egg Biryani", "price":185, "src":"https://b.zmtcdn.com/data/reviews_photos/9e8/dfb6cf7f6768c5f668f2fbfb8b0079e8_1544676347.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A"},
+            {"id":4, "count":1, "title":"Spl. Hyd. Veg Biryani", "price":175, "src":"https://b.zmtcdn.com/data/reviews_photos/03c/d8d62032fc9b06e937f97b2a1396503c_1554116767.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A"},
+            {"id":5, "count":1, "title":"Spl. Hyd. Prawns Biryani", "price":245, "src":"https://b.zmtcdn.com/data/pictures/1/50691/92d9b4053ef0965120828b4fa4eecc3b.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A"}
+        ]
     },
     {
-        "image": "https://via.placeholder.com/50",
-        "title":"Hotel Swagath",
-       
-        "payment": "Accepts all payments",
-        
-        "total votes": 2766,
-        "Category":"Hyderabadi, Oriental, Chinese",
-        "reviews":1235,
-        "CostForOne" : 800,
-        "rating": 3.5
+        "id":2,
+        "title":"Khazana Food Paradise",
+        "cuisines":"Biryani, North Indian, Chinese, Mughlai",
+        "image":"https://b.zmtcdn.com/data/pictures/3/51883/d5e8b967945e52a0add9c9d589908dd9_featured_v2.jpg?output-format=webp",
+        "price":449,
+        "COD":false,
+        "rating":3.76,
+        "menu":[ 
+            {"id":1, "count":1, "title":"Spl. Hyd. Mutton Biryani", "price":245, "src":"https://b.zmtcdn.com/data/reviews_photos/043/61ba53f5757493adb4ce7bab00bdc043_1581352142.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A"},
+            {"id":2, "count":1, "title":"Spl. Hyd. Chicken Biryani", "price":235, "src":"https://b.zmtcdn.com/data/reviews_photos/0d0/ee2b15acf05a5ff91c3b3fdcf06ea0d0_1549475601.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A"},
+            {"id":3, "count":1, "title":"Spl. Hyd. Egg Biryani", "price":185, "src":"https://b.zmtcdn.com/data/reviews_photos/9e8/dfb6cf7f6768c5f668f2fbfb8b0079e8_1544676347.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A"},
+            {"id":4, "count":1, "title":"Spl. Hyd. Veg Biryani", "price":175, "src":"https://b.zmtcdn.com/data/reviews_photos/03c/d8d62032fc9b06e937f97b2a1396503c_1554116767.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A"},
+            {"id":5, "count":1, "title":"Spl. Hyd. Prawns Biryani", "price":245, "src":"https://b.zmtcdn.com/data/pictures/1/50691/92d9b4053ef0965120828b4fa4eecc3b.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A"}
+        ]
     },
     {
-        "image": "https://via.placeholder.com/50",
-        "title":"Bawarchi Restaurant",
-        
-        "payment": "Accepts cash payments",
-         
-        "total votes": 5602,
-        "Category":"Hyderabadi, Chinese",
-        "reviews":12125,
-        "CostForOne" : 400,
-        "rating": 4
+        "id":3,
+        "title":"Kairali Restaurant",
+        "cuisines":"Biryani, North Indian, Chinese, Mughlai",
+        "image":"https://b.zmtcdn.com/data/pictures/1/60941/7f122689f704bbb5e481b7ff76ef0f51.jpg?output-format=webp",
+        "price":118,
+        "COD":true,
+        "rating":4.17,
+        "menu":[ 
+            {"id":1, "count":1, "title":"Spl. Hyd. Mutton Biryani", "price":245, "src":"https://b.zmtcdn.com/data/reviews_photos/043/61ba53f5757493adb4ce7bab00bdc043_1581352142.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A"},
+            {"id":2, "count":1, "title":"Spl. Hyd. Chicken Biryani", "price":235, "src":"https://b.zmtcdn.com/data/reviews_photos/0d0/ee2b15acf05a5ff91c3b3fdcf06ea0d0_1549475601.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A"},
+            {"id":3, "count":1, "title":"Spl. Hyd. Egg Biryani", "price":185, "src":"https://b.zmtcdn.com/data/reviews_photos/9e8/dfb6cf7f6768c5f668f2fbfb8b0079e8_1544676347.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A"},
+            {"id":4, "count":1, "title":"Spl. Hyd. Veg Biryani", "price":175, "src":"https://b.zmtcdn.com/data/reviews_photos/03c/d8d62032fc9b06e937f97b2a1396503c_1554116767.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A"},
+            {"id":5, "count":1, "title":"Spl. Hyd. Prawns Biryani", "price":245, "src":"https://b.zmtcdn.com/data/pictures/1/50691/92d9b4053ef0965120828b4fa4eecc3b.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A"}
+        ]
     },
     {
-        "image": "https://via.placeholder.com/50",
-        "title":"Paradise Biriyani",
-        
-        "payment": "Accepts card payments",
-        "total votes": 23766,
-        "Category":"Hyderabadi, French, Chinese",
-        "reviews":45345,
-        "CostForOne" : 500,
-        "rating": 5
+        "id":4,
+        "title":"Empire Restaurant",
+        "cuisines":"Biryani, North Indian, Chinese, Mughlai",
+        "description":"Supplement Right Lower Arm with Synth Sub, Open Approach",
+        "image":"http://dummyimage.com/172x198.jpg/cc0000/ffffff",
+        "price":419,
+        "COD":true,
+        "rating":3.98,
+        "menu":[ 
+            {"id":1, "count":1, "title":"Spl. Hyd. Mutton Biryani", "price":245, "src":"https://b.zmtcdn.com/data/reviews_photos/043/61ba53f5757493adb4ce7bab00bdc043_1581352142.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A"},
+            {"id":2, "count":1, "title":"Spl. Hyd. Chicken Biryani", "price":235, "src":"https://b.zmtcdn.com/data/reviews_photos/0d0/ee2b15acf05a5ff91c3b3fdcf06ea0d0_1549475601.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A"},
+            {"id":3, "count":1, "title":"Spl. Hyd. Egg Biryani", "price":185, "src":"https://b.zmtcdn.com/data/reviews_photos/9e8/dfb6cf7f6768c5f668f2fbfb8b0079e8_1544676347.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A"},
+            {"id":4, "count":1, "title":"Spl. Hyd. Veg Biryani", "price":175, "src":"https://b.zmtcdn.com/data/reviews_photos/03c/d8d62032fc9b06e937f97b2a1396503c_1554116767.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A"},
+            {"id":5, "count":1, "title":"Spl. Hyd. Prawns Biryani", "price":245, "src":"https://b.zmtcdn.com/data/pictures/1/50691/92d9b4053ef0965120828b4fa4eecc3b.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A"}
+        ]
     },
     {
-        "image": "https://via.placeholder.com/50",
-        "title":"Amigo's Restaurant",
-        
-        "payment": "Accepts all payments",
-            
-        "total votes": 4566,
-        "Category":"Continental, Chinese, French, Italian",
-        "reviews":125,
-        "CostForOne" : 600,
-        "rating": 4.2
-    },
-    {
-        "image": "https://via.placeholder.com/50",
-        "title":"Bonjour's Restaurant",
-       
-        "payment": "Accepts cash payments",
-           
-        "total votes": 512,
-        "Category":"Italian, French, Chinese",
-        "reviews":1235,
-        "CostForOne" : 800,
-        "rating": 3.8
-    },
-    {
-        "image": "https://via.placeholder.com/50",
-        "title":"Konkan Food Court",
-        
-        "payment": "Accepts card payments",
-          
-        "total votes": 766,
-        "Category":"Indian, Chinese",
-        "reviews":45687,
-        "CostForOne" : 750,
-        "rating": 4
-    },
-    {
-        "image": "https://via.placeholder.com/50",
-        "title":"Kritunga's Restaurant",
-        
-        "payment": "Accepts all payments",
-          
-        "total votes": 766,
-        "Category":"Hyderabadi, Chinese",
-        "reviews":45687,
-        "CostForOne" : 750,
-        "rating": 4.6
-    },
-    {
-        "image": "https://via.placeholder.com/50",
-        "title":"Varalakshmi's Food Court",
-       
-        "payment": "Accepts cash payments",
-          
-        "total votes": 45766,
-        "Category":"Indian, Oriental, Chinese",
-        "reviews":1235,
-        "CostForOne" : 400,
-        "rating": 3.6
-    },
-    {
-        "image": "https://via.placeholder.com/50",
-        "title":"Madurai's Restaurant",
-        
-        "payment": "Accepts card payments",
-           
-        "total votes": 766,
-        "Category":"Continental, Oriental, Chinese",
-        "reviews":145,
-        "CostForOne" : 600,
-        "rating": 4
-    },
-    {
-        "image": "https://via.placeholder.com/50",
-        "title":"Barbeque Nation",
-     
-        "payment": "Accepts all payments",
-        "total votes": 766,
-        "Category":"Indian, Japanese, Chinese",
-        "reviews":12345,
-        "CostForOne" : 600,
-        "rating": 4
-    },
-    {
-        "image": "https://via.placeholder.com/50",
-        "title":"Arena Brewkitchen",
-        "payment": "Accepts card payments",
-        "total votes": 7266,
-        "Category":"Indian, Oriental, Chinese",
-        "reviews":125,
-        "CostForOne" : 1200,
-        "rating": 2.8
-    },
-    {
-        "image": "https://via.placeholder.com/50",
-        "title":"Aha's Food Court",
-        
-        "payment": "Accepts cash payments",
-            
-        "total votes": 7656,
-        "Category":"Indian, Oriental, Chinese",
-        "reviews":12345,
-        "CostForOne" : 800,
-        "rating": 3.4
-    },
-    {
-        "image": "https://via.placeholder.com/50",
-        "title":"Burma Restaurant",
-        
-        "payment": "Accepts card payments",
-        "total votes": 766,
-        "Category":"Indian, French, Oriental, Chinese",
-        "reviews":12345,
-        "CostForOne" : 600,
-        "rating": 1.2
-    },
-    {
-        "image": "https://via.placeholder.com/50",
-        "title":"Royal Food Court",
-       
-        "payment": "Accepts all payments",
-            
-        "total votes": 766,
-        "Category":"Punjabi, Indian, Chinese",
-        "reviews":45678,
-        "CostForOne" : 600,
-        "rating": 2.2
-    },
-    {
-        "image": "https://via.placeholder.com/50",
-        "title":"Little Italy",
-        
-        "payment": "Accepts cash payments",
-           
-        "total votes": 766,
-        "Category":"Italian, Pizza, Mexican",
-        "reviews":5478,
-        "CostForOne" : 1200,
-        "rating": 3.9
-    },
-    {
-        "image": "https://via.placeholder.com/50",
-        "title":"Bombay Brewery",
-      
-        "payment": "Accepts card payments",
-        "total votes": 766,
-        "Category":"Continental, Oriental, Chinese",
-        "reviews":45678,
-        "CostForOne" : 450,
-        "rating": 3.4
-
-    },
-    {
-        "image": "https://via.placeholder.com/50",
-        "title":"Masai Food Court",
-     
-        "payment": "Accepts all payments",
-           
-        "total votes": 766,
-        "Category":"Indian, Continental, Chinese",
-        "reviews":145,
-        "CostForOne" : 500,
-        "rating":5
-    },
-    {
-        "image": "https://via.placeholder.com/50",
-        "title":"MainLand China",
-       
-        "payment": "Accepts cash payments",
-           
-        "total votes": 766,
-        "Category":"Continental, Kebabs, Chinese",
-        "reviews":12345,
-        "CostForOne" : 500,
-        "rating": 3.9
-    },
-    {
-        "image": "https://via.placeholder.com/50",
-        "title":"Little Beijing",
-        
-        "payment": "Accepts all payments",
-           
-        "total votes": 766,
-        "Category":"Continental, Oriental, Chinese, Indian",
-        "reviews":9345,
-        "CostForOne" : 900,
-        "rating": 4
+        "id":5,
+        "title":"Domainer",
+        "cuisines":"Biryani, North Indian, Chinese, Mughlai",
+        "description":"Removal of Synthetic Substitute from Left Ear, Endo",
+        "image":"http://dummyimage.com/110x175.jpg/cc0000/ffffff",
+        "price":456,
+        "COD":true,
+        "rating":2.57,
+        "menu":[ 
+            {"id":1, "count":1, "title":"Spl. Hyd. Mutton Biryani", "price":245, "src":"https://b.zmtcdn.com/data/reviews_photos/043/61ba53f5757493adb4ce7bab00bdc043_1581352142.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A"},
+            {"id":2, "count":1, "title":"Spl. Hyd. Chicken Biryani", "price":235, "src":"https://b.zmtcdn.com/data/reviews_photos/0d0/ee2b15acf05a5ff91c3b3fdcf06ea0d0_1549475601.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A"},
+            {"id":3, "count":1, "title":"Spl. Hyd. Egg Biryani", "price":185, "src":"https://b.zmtcdn.com/data/reviews_photos/9e8/dfb6cf7f6768c5f668f2fbfb8b0079e8_1544676347.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A"},
+            {"id":4, "count":1, "title":"Spl. Hyd. Veg Biryani", "price":175, "src":"https://b.zmtcdn.com/data/reviews_photos/03c/d8d62032fc9b06e937f97b2a1396503c_1554116767.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A"},
+            {"id":5, "count":1, "title":"Spl. Hyd. Prawns Biryani", "price":245, "src":"https://b.zmtcdn.com/data/pictures/1/50691/92d9b4053ef0965120828b4fa4eecc3b.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A"}
+        ]
     }
 ]
