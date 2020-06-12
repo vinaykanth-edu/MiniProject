@@ -1,0 +1,236 @@
+[
+    {
+        "image": "https://via.placeholder.com/50",
+        "title":"Bheema's Restaurant",
+        "payment": "Accepts card payments",
+        
+        "total votes": 766,
+        "Category":"Continental, Oriental, Chinese",
+        "reviews":12345,
+        "CostForOne" : 600, 
+        "rating": 4.2
+    },
+    {
+        "image": "https://via.placeholder.com/50",
+        "title":"Hotel Swagath",
+       
+        "payment": "Accepts all payments",
+        
+        "total votes": 2766,
+        "Category":"Hyderabadi, Oriental, Chinese",
+        "reviews":1235,
+        "CostForOne" : 800,
+        "rating": 3.5
+    },
+    {
+        "image": "https://via.placeholder.com/50",
+        "title":"Bawarchi Restaurant",
+        
+        "payment": "Accepts cash payments",
+         
+        "total votes": 5602,
+        "Category":"Hyderabadi, Chinese",
+        "reviews":12125,
+        "CostForOne" : 400,
+        "rating": 4
+    },
+    {
+        "image": "https://via.placeholder.com/50",
+        "title":"Paradise Biriyani",
+        
+        "payment": "Accepts card payments",
+        "total votes": 23766,
+        "Category":"Hyderabadi, French, Chinese",
+        "reviews":45345,
+        "CostForOne" : 500,
+        "rating": 5
+    },
+    {
+        "image": "https://via.placeholder.com/50",
+        "title":"Amigo's Restaurant",
+        
+        "payment": "Accepts all payments",
+            
+        "total votes": 4566,
+        "Category":"Continental, Chinese, French, Italian",
+        "reviews":125,
+        "CostForOne" : 600,
+        "rating": 4.2
+    },
+    {
+        "image": "https://via.placeholder.com/50",
+        "title":"Bonjour's Restaurant",
+       
+        "payment": "Accepts cash payments",
+           
+        "total votes": 512,
+        "Category":"Italian, French, Chinese",
+        "reviews":1235,
+        "CostForOne" : 800,
+        "rating": 3.8
+    },
+    {
+        "image": "https://via.placeholder.com/50",
+        "title":"Konkan Food Court",
+        
+        "payment": "Accepts card payments",
+          
+        "total votes": 766,
+        "Category":"Indian, Chinese",
+        "reviews":45687,
+        "CostForOne" : 750,
+        "rating": 4
+    },
+    {
+        "image": "https://via.placeholder.com/50",
+        "title":"Kritunga's Restaurant",
+        
+        "payment": "Accepts all payments",
+          
+        "total votes": 766,
+        "Category":"Hyderabadi, Chinese",
+        "reviews":45687,
+        "CostForOne" : 750,
+        "rating": 4.6
+    },
+    {
+        "image": "https://via.placeholder.com/50",
+        "title":"Varalakshmi's Food Court",
+       
+        "payment": "Accepts cash payments",
+          
+        "total votes": 45766,
+        "Category":"Indian, Oriental, Chinese",
+        "reviews":1235,
+        "CostForOne" : 400,
+        "rating": 3.6
+    },
+    {
+        "image": "https://via.placeholder.com/50",
+        "title":"Madurai's Restaurant",
+        
+        "payment": "Accepts card payments",
+           
+        "total votes": 766,
+        "Category":"Continental, Oriental, Chinese",
+        "reviews":145,
+        "CostForOne" : 600,
+        "rating": 4
+    },
+    {
+        "image": "https://via.placeholder.com/50",
+        "title":"Barbeque Nation",
+     
+        "payment": "Accepts all payments",
+        "total votes": 766,
+        "Category":"Indian, Japanese, Chinese",
+        "reviews":12345,
+        "CostForOne" : 600,
+        "rating": 4
+    },
+    {
+        "image": "https://via.placeholder.com/50",
+        "title":"Arena Brewkitchen",
+        "payment": "Accepts card payments",
+        "total votes": 7266,
+        "Category":"Indian, Oriental, Chinese",
+        "reviews":125,
+        "CostForOne" : 1200,
+        "rating": 2.8
+    },
+    {
+        "image": "https://via.placeholder.com/50",
+        "title":"Aha's Food Court",
+        
+        "payment": "Accepts cash payments",
+            
+        "total votes": 7656,
+        "Category":"Indian, Oriental, Chinese",
+        "reviews":12345,
+        "CostForOne" : 800,
+        "rating": 3.4
+    },
+    {
+        "image": "https://via.placeholder.com/50",
+        "title":"Burma Restaurant",
+        
+        "payment": "Accepts card payments",
+        "total votes": 766,
+        "Category":"Indian, French, Oriental, Chinese",
+        "reviews":12345,
+        "CostForOne" : 600,
+        "rating": 1.2
+    },
+    {
+        "image": "https://via.placeholder.com/50",
+        "title":"Royal Food Court",
+       
+        "payment": "Accepts all payments",
+            
+        "total votes": 766,
+        "Category":"Punjabi, Indian, Chinese",
+        "reviews":45678,
+        "CostForOne" : 600,
+        "rating": 2.2
+    },
+    {
+        "image": "https://via.placeholder.com/50",
+        "title":"Little Italy",
+        
+        "payment": "Accepts cash payments",
+           
+        "total votes": 766,
+        "Category":"Italian, Pizza, Mexican",
+        "reviews":5478,
+        "CostForOne" : 1200,
+        "rating": 3.9
+    },
+    {
+        "image": "https://via.placeholder.com/50",
+        "title":"Bombay Brewery",
+      
+        "payment": "Accepts card payments",
+        "total votes": 766,
+        "Category":"Continental, Oriental, Chinese",
+        "reviews":45678,
+        "CostForOne" : 450,
+        "rating": 3.4
+
+    },
+    {
+        "image": "https://via.placeholder.com/50",
+        "title":"Masai Food Court",
+     
+        "payment": "Accepts all payments",
+           
+        "total votes": 766,
+        "Category":"Indian, Continental, Chinese",
+        "reviews":145,
+        "CostForOne" : 500,
+        "rating":5
+    },
+    {
+        "image": "https://via.placeholder.com/50",
+        "title":"MainLand China",
+       
+        "payment": "Accepts cash payments",
+           
+        "total votes": 766,
+        "Category":"Continental, Kebabs, Chinese",
+        "reviews":12345,
+        "CostForOne" : 500,
+        "rating": 3.9
+    },
+    {
+        "image": "https://via.placeholder.com/50",
+        "title":"Little Beijing",
+        
+        "payment": "Accepts all payments",
+           
+        "total votes": 766,
+        "Category":"Continental, Oriental, Chinese, Indian",
+        "reviews":9345,
+        "CostForOne" : 900,
+        "rating": 4
+    }
+]
