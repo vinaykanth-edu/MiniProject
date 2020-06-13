@@ -5,12 +5,19 @@ import { BrowserRouter} from 'react-router-dom'
 import store from './Redux/store'
 
 import Footer from './Components/Footer';
+import Navbar from './Components/Navbar'
+
 
 function App() {
   // console.log(store.getState)
   return (
     <div>
-    <Footer/>
+      <BrowserRouter>
+        <Provider store={store}>
+           <Navbar />
+           <Footer/>
+        </Provider>
+      </BrowserRouter>
     </div>
   );
 }

@@ -1,7 +1,7 @@
 [
     {
         "id":1,
-        "title":"Hyderabad Biriyani House",
+        "name":"Hyderabad Biriyani House",
         "cuisines":"Biryani, North Indian, Chinese, Mughlai",
         "image":"https://b.zmtcdn.com/data/pictures/2/50492/befb9434e18ae6e094738b47a35b2cf7.jpg?output-format=webp",
         "price":494,
@@ -17,7 +17,7 @@
     },
     {
         "id":2,
-        "title":"Khazana Food Paradise",
+        "name":"Khazana Food Paradise",
         "cuisines":"Biryani, North Indian, Chinese, Mughlai",
         "image":"https://b.zmtcdn.com/data/pictures/3/51883/d5e8b967945e52a0add9c9d589908dd9_featured_v2.jpg?output-format=webp",
         "price":449,
@@ -33,7 +33,7 @@
     },
     {
         "id":3,
-        "title":"Kairali Restaurant",
+        "name":"Kairali Restaurant",
         "cuisines":"Biryani, North Indian, Chinese, Mughlai",
         "image":"https://b.zmtcdn.com/data/pictures/1/60941/7f122689f704bbb5e481b7ff76ef0f51.jpg?output-format=webp",
         "price":118,
@@ -49,7 +49,7 @@
     },
     {
         "id":4,
-        "title":"Empire Restaurant",
+        "name":"Empire Restaurant",
         "cuisines":"Biryani, North Indian, Chinese, Mughlai",
         "description":"Supplement Right Lower Arm with Synth Sub, Open Approach",
         "image":"http://dummyimage.com/172x198.jpg/cc0000/ffffff",
@@ -66,7 +66,7 @@
     },
     {
         "id":5,
-        "title":"Domainer",
+        "name":"Domainer",
         "cuisines":"Biryani, North Indian, Chinese, Mughlai",
         "description":"Removal of Synthetic Substitute from Left Ear, Endo",
         "image":"http://dummyimage.com/110x175.jpg/cc0000/ffffff",
