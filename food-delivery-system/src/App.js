@@ -7,6 +7,7 @@ import store from './Redux/store'
 import Footer from './Components/Footer';
 import Navbar from './Components/Navbar'
 
+import Home from './Components/Home';
 
 function App() {
   // console.log(store.getState)
@@ -15,6 +16,7 @@ function App() {
       <BrowserRouter>
         <Provider store={store}>
            <Navbar />
+           <Home />
            <Footer/>
         </Provider>
       </BrowserRouter>
