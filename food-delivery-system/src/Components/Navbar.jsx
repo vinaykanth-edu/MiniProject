@@ -34,26 +34,24 @@ const Navbar = () => {
             </Link>
           </li>
           <li className='nav-item mx-3'>
-            <Link to='/product' className='nav-link'>
-              Product
+            <Link to='/search' className='nav-link'>
+              Search
             </Link>
           </li>
           <li className='nav-item mx-3'>
-            <Link to='/pricing' className='nav-link'>
-              Pricing
+            <Link to='/addRestaurant' className='nav-link'>
+              Add Your Restaurant
             </Link>
           </li>
           <li className='nav-item mx-3'>
-            <Link to='/support' className='nav-link '>
-              Support
+            <Link to='/cart' className='nav-link '>
+              Cart
             </Link>
           </li>
           <li className='nav-item mx-3'>
-            <input
-              type='button'
-              value='login'
-              className='btn btn-primary py-1 px-4'
-            />
+          <Link to='/login' className='nav-link '>
+              LogIn
+          </Link>
           </li>
         </ul>
       </div>

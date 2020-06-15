@@ -1,13 +1,24 @@
 import React from 'react'
-import data from '../utils/data.json'
+// import data from '../utils/data.json'
 import RestaurantCard from './RestaurantCard';
+import {connect} from 'react-redux'
+import {Link} from 'react-router-dom'
 
-export default class Home extends React.Component{
+
+ class Home extends React.Component{
     render(){
+        const {productsArr, match} = this.props
+        console.log(match)
        return(
         <>
-            <div class="row">{data.map(item => <RestaurantCard items={item}/>)}</div>
+           <Link to='/'>
+                <div class="row">{productsArr.map(item => <RestaurantCard items={item}/>)}</div>
+           </Link>
         </>
        )
     }
 }
+
+const mapStateToProps = state => ({productsArr:state.productsArr})
+
+export default connect (mapStateToProps, null)(Home) 
